@@ -1,0 +1,74 @@
+img { 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.Header1 {
+    font-family: Chalkduster;
+    text-align: center;
+    font-size: 100px ;
+}
+
+a:active {
+    color: Black;
+    text-decoration:line-through;
+}
+
+nav {
+    text-align: center;
+    margin: 0;
+    font-size: 25px;
+    padding-bottom: 0px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+dt {
+    font-style: BOLD;
+    font-size: 40px;
+    text-align: center;
+}
+
+.ddhome {
+    font-style: italic;
+    font-size: 20px;
+    margin-left: 50%;
+    ;
+}
+
+.ddspecs {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.katana {
+    position:relative
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header,footer{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer{
+    margin: 0px;
+    position:fixed;
+    bottom: 0px;
+}
+body {
+    margin: 0px;
+    min-width: 800px;
+}
